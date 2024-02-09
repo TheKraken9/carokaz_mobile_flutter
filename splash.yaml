@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#ffffff"
+  color_dark: "#000000"
+  image: assets/images/Gasy-CarOccaz.png
+  image_dark: assets/images/Gasy-CarOccaz.png
+
+  android_12:
+    color: "#ffffff"
+    color_dark: "#000000"
+    image: assets/images/Gasy-CarOccaz.png
+    image_dark: assets/images/Gasy-CarOccaz.png
+
+  web: false

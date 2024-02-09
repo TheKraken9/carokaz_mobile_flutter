@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82431486151",
+    "project_id": "notificationclouds5",
+    "storage_bucket": "notificationclouds5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82431486151:android:c76ca1d7e1f4900456f6e2",
+        "android_client_info": {
+          "package_name": "com.stackx.mada_jeune"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhOMFOvd-sDzoplu7BynuejA1XxnEhr-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
